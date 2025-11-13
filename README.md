@@ -1,6 +1,8 @@
 # LockBox.Upload
 **The last file-upload validator your .NET app will ever need.**
-
+<div align="center">
+  <img src="lockbox.jpg" alt="LockBox.Upload – when hackers throw files, we throw them back" width="600"/>
+</div>
 Tired of watching junior devs “validate” uploads with `Path.GetExtension()` while you age ten years per deployment?  
 LockBox.Upload ends that nightmare in 2025.
 
@@ -19,4 +21,5 @@ Zero bypasses since 2024.
 
 ### 30-second drop-in
 ```bash
+
 dotnet add package SixLabors.ImageSharp
