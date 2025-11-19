@@ -21,6 +21,8 @@ Zero bypasses since 2024.
 
 ### 30-second drop-in
 ```bash
+dotnet add package SixLabors.ImageSharp```
 
-dotnet add package SixLabors.ImageSharp
+
 https://x.com/kamakauzy/
+
