@@ -1,4 +1,5 @@
 # LockBox.Upload
+https://x.com/kamakauzy/
 **The last file-upload validator your .NET app will ever need.**
 <div align="center">
   <img src="lockbox.jpg" alt="LockBox.Upload – when hackers throw files, we throw them back" width="600"/>
@@ -21,8 +22,6 @@ Zero bypasses since 2024.
 
 ### 30-second drop-in
 ```bash
-dotnet add package SixLabors.ImageSharp```
+dotnet add package SixLabors.ImageSharp
 
-
-https://x.com/kamakauzy/
 
